@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 400px;
+  height: 175px;
+  background: #d34735;
+  margin: 10px;
+  border-radius: 5%;
+}
+
+img {
+  width: 200px;
+  height: 150px;
+  overflow: hidden;
+  margin: 10px;
+}
+
+.productButton {
+  background: #3ad886;
+  margin: 10px;
+}
+
+.productButtonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.textContainer {
+  display: flex;
+  flex-direction: column;
+}

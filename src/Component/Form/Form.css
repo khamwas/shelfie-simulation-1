@@ -1,0 +1,19 @@
+.formContainer {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #3ad886;
+  border-radius: 5%;
+}
+
+.formImg {
+}
+
+.formButtonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}

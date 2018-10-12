@@ -1,0 +1,18 @@
+.header {
+  background: #ab2a19;
+  width: 100vw;
+  height: 50px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  color: white;
+}
+
+.logoimg {
+  max-height: 45px;
+  max-width: 45px;
+}
+
+.headerButton {
+  margin: 5px;
+}
